@@ -1,0 +1,1 @@
+# react-intl-extract-autoid
