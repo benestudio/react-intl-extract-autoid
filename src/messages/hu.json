@@ -1,8 +1,4 @@
 {
-  "App": {
-    "messages": {
-      "hello": "",
-      "world": ""
-    }
-  }
+  "App.messages.hello": "",
+  "App.messages.world": ""
 }

@@ -17,7 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "extract-messages": "NODE_ENV=development extract-messages -l=en,hu -o src/messages -d en --flat true 'src/**/!(*.test).js'"
+    "babel": "babel ./src",
+    "extract-messages": "NODE_ENV=production extract-messages -l=en,hu -o src/messages -d en --flat true 'src/**/!(*.test).js'"
   },
   "eslintConfig": {
     "extends": [
