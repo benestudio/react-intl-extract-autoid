@@ -1,4 +1,4 @@
 {
-  "a.hello": "hello",
-  "a.world": "world"
+  "App.hello": "Hello",
+  "App.world": "world!"
 }
